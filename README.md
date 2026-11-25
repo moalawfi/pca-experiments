@@ -13,6 +13,16 @@ The notebook focuses on understanding:
 
 ---
 
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/digit_reconstruction.png" width="55%" alt="Digit reconstruction with increasing k" />
+  <img src="assets/accuracy_vs_k_letters.png" width="40%" alt="Accuracy vs number of components, Arabic letters" />
+</p>
+<p align="center"><sub>Digit reconstruction as k grows · Classifier accuracy vs. k on Arabic letters</sub></p>
+
+---
+
 ## 🧠 What This Notebook Does
 
 ### 1) Load & Prepare Data
@@ -140,7 +150,7 @@ If you want the exact dataset used in this notebook, feel free to **contact me o
 **Mohammed Alawfi**
 📍 Madinah, Saudi Arabia
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github\&logoColor=fff)](https://github.com/963n)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github\&logoColor=fff)](https://github.com/moalawfi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/mohammed-a-3913a5378/)
 
 ---
